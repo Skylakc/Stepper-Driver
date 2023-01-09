@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~104|Field=Description~String~Description~104|Field=Designator~String~Designator~104|Field=Footprint~String~Footprint~104|Field=LibRef~String~LibRef~104|Field=Quantity~Integer~Quantity~104|Field=Value~String~Value~104|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Item.PrjPCB|ReportField=ProjectFullPath~I:\Files\UM2\42闭环步进\Item.PrjPCB|ReportField=Title~Bill of Materials For Project [Item.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~34|ReportField=ReportTime~14:20:25|ReportField=ReportDate~2020/3/11|ReportField=ReportDateTime~2020/3/11 14:20:25|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2020/3/11|ReportField=CurrentTime~14:12:51|ReportField=Date~|ReportField=DocumentFullPathAndName~I:\Files\UM2\42闭环步进\Item.SchDoc|ReportField=DocumentName~Item.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2019/8/21|ReportField=Organization~|ReportField=ProjectName~Item.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Item.PrjPCB|ReportField=DataSourceFullPath~I:\Files\UM2\42闭环步进\Item.PrjPCB|ReportField=PCBDataSourceFileName~Item.PcbDoc|ReportField=PCBDataSourceFullPath~I:\Files\UM2\42闭环步进\Item.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|RES|Resistor|R3, R4, R5, R7, R8, R9, R10, R12, R14, R15|0805|RES|10|680, 680, 1K, 1K, 1K, 680, 1K, 680, 1K, 1K
+2|CAP POL|Polarized Capacitor (Axial)|C1, C10|CAP6377|CAP POL|2|47U
+3|RES|Resistor|R1, R2|1206|RES|2|0.2
+4|CAP|Capacitor|C2, C4, C5, C6, C7, C8, C11|0805|CAP|7|0.1U, 10U, 0.1U, 0.1U, 0.1U, 0.1U, 0.1U
+5|A4950|Dual Full-Bridge  DMOS PWM Motor Driver|U2, U4|SOIC-8_A4950|A4950|2|
+6|CT357B|4 PIN PHOTOTRANSISTOR|U6|SOP-4_P2.54|EL817|1|
+7|HEADER4|Header, 4-Pin|P2|4P-2.54MM - S|HEADER4|1|
+8|HEADER4|Header, 4-Pin|P4, P7|4P-1.27MM|HEADER4|2|
+9|HEADER6|Header, 6-Pin|P3|XH-6-S|HEADER6|1|
+10|LED|Typical INFRARED GaAs LED|D2|0805|LED|1|
+11|RS3005|Positive Voltage Regulator|U1|SOT89|RS3005|1|
+12|STM32F030C8|ST Microcontroller|U7|LQFP-48_7x7x05P|STM32F030C8|1|
+13|SWDIP-4|DIP Switch, 4Position, SPST|S1|SWSUR-4|SWDIP-4|1|
+14|TLE5012B|GMR-Based Angle Sensor|U5|PG-DSO-8F|TLE5012B|1|
+15|TLP2168|HIGH SPEED 10MBit/s LOGIC GATE  PHOTOCOUPLER|U3|SO-8_3.9mm|TLP2168|1|
